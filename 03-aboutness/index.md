@@ -18,6 +18,6 @@ When my photoshop isn't open I am probably out with my friends, heavy lifting in
 
 ## My project
 
-![Project](03-aboutness/myproject.md)
+![Project](english-for-designers/03-aboutness/myproject.md)
 
 
