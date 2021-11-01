@@ -17,6 +17,7 @@ When my photoshop isn't open I am probably out with my friends, heavy lifting in
 
 
 ## My project
-https://github.com/OliverStancev/english-for-designers/blob/81f3d84119a8e70685c98623fbe73869bf545bb2/03-aboutness/myproject.md
+
+!(https://github.com/OliverStancev/english-for-designers/blob/81f3d84119a8e70685c98623fbe73869bf545bb2/03-aboutness/myproject.md)
 
 
