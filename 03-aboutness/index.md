@@ -18,6 +18,6 @@ When my photoshop isn't open I am probably out with my friends, heavy lifting in
 
 ## My project
 
-- [View Selected Case Study](myproject.md)
+- [View my project](myproject.md)
 
 
