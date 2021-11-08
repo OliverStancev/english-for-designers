@@ -9,12 +9,13 @@ Back in 2010 I was an aspiring youtuber making gameplay videos with commentary a
 When I was thinking about what should I do in my life I went for my hobby despite my mother wanting me to attend a medical school and I regret nothing so far.
 
 ![YoungMe](https://user-images.githubusercontent.com/79570724/139725996-410b8e6b-50e9-44ec-8bba-e5f5795ece82.jpg)
+Me working on my youtube career
 
 ## Other activities
 When my photoshop isn't open I am probably out with my friends, heavy lifting in the gym or grinding my rank in League of Legends.
 
 ![Chall](https://user-images.githubusercontent.com/79570724/139726671-09ef22ee-c006-4a16-ab3a-9f5a008425ce.png)
-
+Me achieving the highest possible rank in league of legends
 
 ## My project
 
