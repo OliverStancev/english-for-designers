@@ -25,3 +25,7 @@ This was the final version of the logo she was very happy about.
 And also package cover for her cases.
 
 ![example p](https://user-images.githubusercontent.com/79570724/139733700-d27721a0-06aa-41a2-a529-e2021a6da8fd.png)
+Versions of the cover.
+
+## Conclusion
+I communicated a lot with the client and together we created something that was perfect as her vision. Hope we will work together again in the future.
