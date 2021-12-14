@@ -9,4 +9,4 @@
 - [Impression](https://oliverstancev.github.io/english-for-designers/02-Impressions/index)
 - [Voice and Tone](https://oliverstancev.github.io/english-for-designers/05-voice-tone/index)
 - [Storytelling](https://oliverstancev.github.io/english-for-designers/06-storytelling/index)
-- [Extra takeaway](https://oliverstancev.github.io/english-for-designers/extra-takeaways/index)
+- [Extra takeaways](https://oliverstancev.github.io/english-for-designers/extra-takeaways/index)
