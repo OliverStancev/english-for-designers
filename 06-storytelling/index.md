@@ -21,6 +21,7 @@ In 2019 I was something like a school designer. If anyone needed anything to des
 And now we are here. 12 years after my first design attempt. I am in my last year of school and deciding whether to continue studying or go to full time working. Finishing my bachelors work as a game designer and really enjoying it. Also I have a part-time job as a designer in a big casino company and I really like the job.
 
 What future holds is the question. :)
+![Me](https://user-images.githubusercontent.com/79570724/139725966-d34eb5e2-d1dc-4e07-b1e4-4401060b20c5.jpg)
 
 # Interview with myself
 Why do you love what you do?
