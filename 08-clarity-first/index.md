@@ -8,7 +8,7 @@
 
 # Game Design - Essence of soulslike games
 # Summary
-In my thesis i am writing about game design in general and then dive into the topic of soulslike games a very specific genre which consists of keeping the player challanged at all times. I analyze the psychology behind this genre - how it affects the player, why more players like these types of games, how player can be better at this genre and how to make a game as a solo developer in this genre. And also the market analysis.
+In my thesis i am writing about game design in general and then dive into the topic of soulslike games a very specific genre which consists of keeping the player challenged at all times. I analyze the psychology behind this genre - how it affects the player, why more players like these types of games, how player can be better at this genre and how to make a game as a solo developer in this genre. And also the market analysis.
 # Mind map
 ...
 # Keywords
@@ -16,12 +16,13 @@ In my thesis i am writing about game design in general and then dive into the to
 
 - **Soulslike**
 
-- **Challange**
+- **Challenge**
 
 - **Indie Developer**
 
 - **Psychology**
 # Key Points
+
 **1. Background/importance of topic**
 
 This genre of games consists of keeping the player challanged at all times. I am explaining why players like this genre so much, why is it so popular, what is it doing to human body and how it appears on the market.
