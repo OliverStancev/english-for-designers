@@ -26,7 +26,7 @@ In my thesis i am writing about game design in general and then dive into the to
 
 **1. Background/importance of topic**
 
-This genre of games consists of keeping the player challanged at all times. I am explaining why players like this genre so much, why is it so popular, what is it doing to human body and how it appears on the market.
+This genre of games consists of keeping the player challenged at all times. I am explaining why players like this genre so much, why is it so popular, what is it doing to human body and how it appears on the market.
 
 **2. Purpose/hypothesis (thesis or statement of problem)**
 
@@ -43,7 +43,7 @@ Creating my own game based on my research on this topic.
 **5. Conclusions (significance/success of study to theory/practical/society)**
 
 Understanding how soulslike games work and how to apply this know-how to new games.
-Creating a new soulslike game based on this research and making her distribution.
+Creating a new soulslike game based on this research and making its distribution.
 
 # References
 - Gaming the Iron Curtain by Jaroslav Šlech
