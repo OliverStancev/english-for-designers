@@ -21,6 +21,7 @@ In my thesis i am writing about game design in general and then dive into the to
 - **Indie Developer**
 
 - **Psychology**
+
 # Key Points
 
 **1. Background/importance of topic**
