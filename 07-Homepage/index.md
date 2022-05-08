@@ -10,6 +10,7 @@
 - [Voice and tone](https://oliverstancev.github.io/english-for-designers/05-voice-tone/index)
 - [Storytelling](https://oliverstancev.github.io/english-for-designers/06-storytelling/index)
 - [Extra takeaways](https://oliverstancev.github.io/english-for-designers/extra-takeaways/index)
+
 ## My work - Summer semester
 - [Clarity first](https://oliverstancev.github.io/english-for-designers/08-clarity-first/index)
 - [Thesis digest](https://github.com/OliverStancev/english-for-designers/blob/main/10-thesis-digest/index.md)
