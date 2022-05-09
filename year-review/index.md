@@ -7,6 +7,7 @@ If I had to pick anything - probably the amount of homework :P But I know it was
  - How to master my voice & tone and presentation skills
  - How to work with github and make simple websites
  - How to make even better design
+
 ### 4. What was the most memorable activity/assignment from this year?
 Definitely the thesis digest thing - it helped me to get to know my thesis better and make it more interesting and proffesional - also the presentation video was fun to make.
 ### 5. What is something you accomplished this year that you are proud of?
